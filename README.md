@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @IsaacMakesThings
+- 👀 I’m interested in 3D printing 
+- 🌱 I’m currently learning how to 3d print parts and intergrate them with computers such as arduino and raspberry pi
+- 💞️ Mingle and ready to single
+- 📫 How to reach me ... don't.
